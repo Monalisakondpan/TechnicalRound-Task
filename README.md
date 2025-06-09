@@ -61,3 +61,4 @@ java MatrixIslandsWithDiagonals
 
 **Note:**  
 Navigate to the `src` folder before compiling and running, or use the full path from the project root.
+The `.class` files are generated automatically when you compile the `.java` files and are required to run the programs.
