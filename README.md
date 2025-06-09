@@ -59,6 +59,15 @@ java MatrixIslandsWithDiagonals
 
 ---
 
+### 6. Mini Interpreter  
+**File:** `MiniInterpreter.java`  
+**What it does:** Evaluates simple `let` variable declarations and `if` conditions from input strings, supporting variable assignment, conditional logic, and printing variable values.  
+**How to run:**  
+```sh
+javac MiniInterpreter.java
+java MiniInterpreter
+```
+
 **Note:**  
 Navigate to the `src` folder before compiling and running, or use the full path from the project root.
 <<<<<<< HEAD
